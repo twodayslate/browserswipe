@@ -7,9 +7,9 @@ ARCHS := armv7 arm64
 
 include theos/makefiles/common.mk
 
-TWEAK_NAME = chromeswipeback
-chromeswipeback_FILES = Tweak.xm
-chromeswipeback_ARCHS = armv7 arm64
+TWEAK_NAME = browserswipe
+browserswipe_FILES = Tweak.xm
+browserswipe_ARCHS = armv7 arm64
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 

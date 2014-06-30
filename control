@@ -1,5 +1,5 @@
-Package: com.twodayslate.chromeswipeback
-Name: chromeswipeback
+Package: org.thebigboss.browserswipe
+Name: browserswipe
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm

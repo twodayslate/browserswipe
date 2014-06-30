@@ -1,10 +1,10 @@
-Package: com.twodayslate.chromeswipeback
-Name: chromeswipeback
+Package: org.thebigboss.browserswipe
+Name: browserswipe
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Swipe to go back in Google Chrome!
 Maintainer: twodayslate
 Author: twodayslate
 Section: Tweaks
-Version: 1.0-1
-Installed-Size: 72
+Version: 1.0-2
+Installed-Size: 68
