@@ -1,0 +1,9 @@
+Package: com.twodayslate.chromeswipeback
+Name: chromeswipeback
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Swipe to go back in Google Chrome!
+Maintainer: twodayslate
+Author: twodayslate
+Section: Tweaks
